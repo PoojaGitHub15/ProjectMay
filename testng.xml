@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <listeners>
+		<listener class-name="utilitiesForListeners.ExtentReportManager"></listener>
+	</listeners>
+ <test  name="Test">
+	<classes>
+		<class name="testCasesForWritingTestCases.TC_001_Registartion"></class>
+		<class name="testCasesForWritingTestCases.TC_002_OpenNewAccount"></class>
+	</classes>
+ </test> <!-- Test -->
+</suite> <!-- Suite -->

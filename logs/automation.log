@@ -1,0 +1,72 @@
+15:34:47.948 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Launched the Application*****
+15:34:48.159 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Maximized the browser*****
+15:34:48.173 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Waiting for elements to load*****
+15:34:52.861 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on Registration*****
+15:34:56.172 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Firstname entered*****
+15:34:56.345 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Lastname Entered*****
+15:34:56.483 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Address Entered*****
+15:34:56.629 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****City Entered*****
+15:34:56.759 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****State Entered*****
+15:34:56.899 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Zipcode Entered*****
+15:34:57.068 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Phonenumber entered*****
+15:34:57.169 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ***ssn entered*****
+15:34:57.283 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****username entered*****
+15:34:57.406 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****password entered*****
+15:34:57.505 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****confirm password entered*****
+15:34:58.177 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Account Created*****
+15:35:08.689 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on New Account*****
+15:35:15.059 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Closed browser*****
+01:30:14.622 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Launched the Application*****
+01:30:14.804 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Maximized the browser*****
+01:30:14.843 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Waiting for elements to load*****
+01:30:20.331 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on Registration*****
+01:30:23.780 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Firstname entered*****
+01:30:24.107 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Lastname Entered*****
+01:30:24.312 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Address Entered*****
+01:30:24.518 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****City Entered*****
+01:30:24.742 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****State Entered*****
+01:30:24.902 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Zipcode Entered*****
+01:30:25.097 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Phonenumber entered*****
+01:30:25.275 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ***ssn entered*****
+01:30:25.482 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****username entered*****
+01:30:25.649 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****password entered*****
+01:30:25.849 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****confirm password entered*****
+01:30:27.306 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Account Created*****
+01:30:38.105 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on New Account*****
+01:30:46.496 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Closed browser*****
+08:54:49.840 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Launched the Application*****
+08:54:49.913 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Maximized the browser*****
+08:54:49.925 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Waiting for elements to load*****
+08:54:52.871 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on Registration*****
+08:54:56.201 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Firstname entered*****
+08:54:56.328 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Lastname Entered*****
+08:54:56.491 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Address Entered*****
+08:54:56.641 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****City Entered*****
+08:54:56.748 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****State Entered*****
+08:54:56.892 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Zipcode Entered*****
+08:54:57.060 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Phonenumber entered*****
+08:54:57.178 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ***ssn entered*****
+08:54:57.321 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****username entered*****
+08:54:57.439 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****password entered*****
+08:54:57.575 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****confirm password entered*****
+08:54:58.518 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Account Created*****
+08:55:09.909 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on New Account*****
+08:55:17.938 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Closed browser*****
+07:07:21.935 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Launched the Application*****
+07:07:22.228 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Maximized the browser*****
+07:07:22.280 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Waiting for elements to load*****
+07:07:27.696 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on Registration*****
+07:07:31.730 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Firstname entered*****
+07:07:32.003 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Lastname Entered*****
+07:07:32.258 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Address Entered*****
+07:07:32.478 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****City Entered*****
+07:07:32.597 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****State Entered*****
+07:07:32.747 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Zipcode Entered*****
+07:07:32.895 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Phonenumber entered*****
+07:07:33.036 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ***ssn entered*****
+07:07:33.186 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****username entered*****
+07:07:33.328 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****password entered*****
+07:07:33.457 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****confirm password entered*****
+07:07:34.514 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Account Created*****
+07:07:45.470 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Clicked on New Account*****
+07:07:52.393 [main] INFO  testCasesForWritingTestCases.TC_001_Registartion - ****Closed browser*****
